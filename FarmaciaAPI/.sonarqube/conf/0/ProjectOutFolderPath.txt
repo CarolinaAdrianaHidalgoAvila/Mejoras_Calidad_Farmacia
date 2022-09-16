@@ -1,1 +1,1 @@
-C:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\.sonarqube\out\0
+E:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\.sonarqube\out\0

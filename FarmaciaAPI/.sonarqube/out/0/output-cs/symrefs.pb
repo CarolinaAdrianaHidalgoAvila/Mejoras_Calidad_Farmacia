@@ -1,8 +1,10 @@
-¢
-èC:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Controllers\AuthController.cs
+°
+ÇE:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Controllers\AuthController.cs
 
  <
- ( # .//# .@@# .QQ# .
+ ( # .//# .@@# .QQ# .
+
+ 
 + 6 *
 
 ) 6
@@ -19,32 +21,39 @@
 
 MM) 3
 MMN SQQ> C(
-QQ SS UU $XX" (ˇ
-óC:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Controllers\LaboratoriesController.cs
+QQ SS UU $XX" (Ü
+äE:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Controllers\LaboratoriesController.cs
 
  'H
 # 5 "") ;88' 9RR* <dd (
 ÉÉ. @(
- ) NN# /# /
+ ) NN# /# /
+
+ %
 9 J! 2
 Y d &
 
 F Z
 b i""Q X
-""  ## &
+""  ## &
+%%, .''  "
+))4 6++" $
 
 449 K
 44P R88M O
-88 99 $
+88 99 $
+;;, .==  "
 
 FF9 L(
 FFl vMM %PP RRS ]
 MM NN; ?
 NN  PP' 0
-RR !SS4 ASSH U
+RR !SS4 ASSH U
+UU, .WW  "
 
 ``( =
-``B Ndd? K
+``B Ndd? K
+gg, .ii  "
 
 rr9 K
 rrP \
@@ -57,33 +66,42 @@
 ÅÅ' 0
 
 ÉÉ %
-ÑÑ +∞
-ìC:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Controllers\ProductsController.cs
+ÑÑ +
+
+ÜÜ, .
+àà  "ù
+ÜE:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Controllers\ProductsController.cs
 
  #F
   /   /00$ 3HH$ 3[[ %rr+ :(
- ) EE# /nn# /
+ ) EE# /nn# /
+
+ !
 2 @ ,
 O Z &
 
 C S
-X dA M
+X dA M
+  , .""  "
 
 ,,6 E
 ,,J V00D P
 ,,\ e00R [
-00 11 !
+00 11 !
+33, .55  "
 
 >>6 F
 >>K WHHG S(
 >>u DD %GG HHU _
 DD EE; ?
 EE  GG' 0(
-HH II4 ;IIT [IIb i
+HH II4 ;IIT [IIb i
+LL, .NN  "
 
 WW( :
 WW? K[[9 E
-WWQ Z[[G P
+WWQ Z[[G P
+^^, .``  "
 
 ii6 H
 iiM YrrN Z
@@ -92,17 +110,20 @@
 iiÜ çmm "pp rrg n
 mm nn; ?
 nn  pp$ -
-rr "ss (û
-ãC:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Data\AutomapperProfile.cs
+rr "ss (
+uu, .ww  "ú
+~E:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Data\AutomapperProfile.cs
 
- "
+ "
+
+  
  " %
 4 7; >
 G MQ W
  " %
 2 59 <
-E Km sÇ
-ìC:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Data\Entities\LaboratoryEntity.cs
+E Km sı
+ÜE:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Data\Entities\LaboratoryEntity.cs
 
 
 
@@ -122,8 +143,8 @@
 
  #
 
-. 6ã
-êC:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Data\Entities\ProductEntity.cs
+. 6˛
+ÉE:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Data\Entities\ProductEntity.cs
 
 
 
@@ -145,13 +166,15 @@
 
  
 
-( 2¥
-ãC:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Data\FarmaciaDBContext.cs
+( 2≤
+~E:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Data\FarmaciaDBContext.cs
  "2 C
 
 ' 3
 
-$ ,
+$ ,
+
+  
 E L 
 
   /P
@@ -161,8 +184,8 @@
 U VZ [
 : ;? @
   8 9  = >
-  T U  Y ZÌ
-öC:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Data\Repository\ILaboratoryRepository.cs
+  T U  Y Z‡
+çE:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Data\Repository\ILaboratoryRepository.cs
 
 		 *
 
@@ -218,13 +241,15 @@
 
 O V
 
- #Î
-ôC:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Data\Repository\LaboratoryRepository.cs
+ #Ä
+åE:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Data\Repository\LaboratoryRepository.cs
 
 
 
  %†
-" ,    + 5 $$( 2%% **1 ;MM1 ;TT. 8[[. 8ee# -qq+ 5~~( 2
+" ,    + 5 $$( 2%% **1 ;MM1 ;TT. 8[[. 8ee# -qq+ 5~~( 2
+
+ #
 6 ? "
 
  $
@@ -276,7 +301,8 @@
 ]]  !]]% &
 
 aa  0
-ee ff 
+ee ff 
+ii kk 
 
 oo 0
 oo5 Aqq[ gF
@@ -307,22 +333,30 @@
 ÑÑM \
 ÖÖ 
 ÖÖ= L
-~~P Q~~U V~~j k≈
-†C:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Exceptions\InvalidElementOperationException.cs
+~~P Q~~U V~~j kƒ
+ìE:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Exceptions\InvalidElementOperationException.cs
 
- 1
+ 1
+
+
+
+ /
 
 
 7 >
 
-G NΩ
-òC:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Exceptions\NotFoundElementException.cs
+G Nº
+ãE:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Exceptions\NotFoundElementException.cs
 
- )
+ )
+
 
 
-/ 6 ¨
-üC:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Migrations\20211226011637_InitialMigration.cs
+ '
+
+
+/ 6 ü
+íE:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Migrations\20211226011637_InitialMigration.cs
 
  )
 
@@ -337,8 +371,8 @@
 --  !--% &
 
 99  $
-996 F;; >> Œ
-óC:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Migrations\20211226224225_Security.cs
+996 F;; >> ¡
+äE:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Migrations\20211226224225_Security.cs
 
  !
 
@@ -407,8 +441,8 @@
 ŒŒ 
 —— 
 ‘‘ 
-◊◊ Ÿ
-öC:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Migrations\20211230200135_AddedImages.cs
+◊◊ Ã
+çE:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Migrations\20211230200135_AddedImages.cs
 
  $
 
@@ -418,8 +452,8 @@
 
   $
 
-6 Fı
-¢C:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Migrations\20220102122104_AddedImagesProducts.cs
+6 FË
+ïE:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Migrations\20220102122104_AddedImagesProducts.cs
 
  ,
 
@@ -427,15 +461,15 @@
 4 D		 
 
   $
-6 F ™
-èC:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Models\LaboratoryFormModel.cs
+6 F ù
+ÇE:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Models\LaboratoryFormModel.cs
 
  $
 
 
 
- ˙
-ãC:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Models\LaboratoryModel.cs
+ Ï
+~E:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Models\LaboratoryModel.cs
 
   
 
@@ -453,13 +487,13 @@
 
  
 
-) 1ß
-åC:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Models\ProductFormModel.cs
+) 1ô
+E:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Models\ProductFormModel.cs
 
 		 !
 
- É
-àC:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Models\ProductModel.cs
+ ı
+{E:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Models\ProductModel.cs
 
  
 
@@ -481,8 +515,8 @@
 
  
 
- Ù
-âC:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Models\ResponseModel.cs
+ ä
+|E:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Models\ResponseModel.cs
 
  
   
@@ -495,18 +529,24 @@
 
  
 
-# )
+# )
+ !  
 
-! *
- !  ø
-òC:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Models\Security\CreateRoleViewModel.cs
+! *
+
+ 
+
+ 
+
+ ≤
+ãE:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Models\Security\CreateRoleViewModel.cs
 
 		 $
 
  
 
- $√
-úC:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Models\Security\CreateUserRoleViewModel.cs
+ $∂
+èE:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Models\Security\CreateUserRoleViewModel.cs
 
  (
 
@@ -514,15 +554,15 @@
 
  
 
- ∫
-ìC:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Models\Security\LoginViewModel.cs
+ ≠
+ÜE:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Models\Security\LoginViewModel.cs
 
 		 
 
  
 
- …
-ñC:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Models\Security\RegisterViewModel.cs
+ º
+âE:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Models\Security\RegisterViewModel.cs
 
 		 "
 
@@ -530,8 +570,8 @@
 
  
 
- %◊
-òC:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Models\Security\UserManagerResponse.cs
+ % 
+ãE:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Models\Security\UserManagerResponse.cs
 
  $
 
@@ -543,17 +583,17 @@
 
 # )
 
- #Ó
-|C:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Program.cs
+ #·
+oE:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Program.cs
 
- 
+ 
 
  
 ) - "
 # 4 
 > B& *
-* 4 Ü
-âC:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Services\FileService.cs
+* 4 ¯
+|E:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Services\FileService.cs
 
 
 
@@ -567,8 +607,8 @@
   = F
  8 @5 =
  3 ;
- !  &±
-äC:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Services\IFileService.cs
+ !  &£
+}E:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Services\IFileService.cs
 
  !
 
@@ -578,8 +618,8 @@
 
 
 
-$ (£
-êC:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Services\ILaboratoryService.cs
+$ (ñ
+ÉE:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Services\ILaboratoryService.cs
 
 		 '
 
@@ -603,8 +643,8 @@
 
  "
 
-' 3–
-çC:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Services\IProductService.cs
+' 3√
+ÄE:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Services\IProductService.cs
 
 		 $
 
@@ -636,12 +676,14 @@
 
 D M
 
-\ c‚
-èC:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Services\LaboratoryService.cs
+\ c·
+ÇE:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Services\LaboratoryService.cs
 
  "d
 & ; ! ! 4)) '** 422# 8??- BHH 'II 4P
-  # *   77 @@ GG# *LL 
+  # *   77 @@ GG# *LL 
+
+  
 7 K$ 8
 U [  
   2<< #
@@ -653,9 +695,9 @@
   
 
 && /
-&&4 @((% 1))> J
+&&4 @((% 1))> J
+00+ =(( $FF $
 ** ++ 
-00+ =(( $FF $
 00B N22L X55M Y
 22 44 770 :
 
@@ -667,26 +709,29 @@
 DDE QFF% 1HH> J
 DDc mGGA K
 GG  HHL \LL4 D
-II JJ Ω
-åC:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Services\ProductService.cs
+II JJ ª
+E:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Services\ProductService.cs
 
  n
 & ; ! ! 4(( ')) 455  5??! 6GG 'HH 4RR# 8P
-     99 @@ FF  KK 
+     99 @@ FF  KK 
+
+ 
 4 H$ 8
 R X 
 
 ( :(
 ? K* 6# /0 <
-Z a 4 ;
+Z a 4 ;(
+PP 2 )33 )>> )
  > D1 7
   
 
 %% -
 %%2 >''" .((; G
-%%D M''0 9((I R
-)) ** 
-11) 8'' !EE !*
+%%D M''0 9((I R
+11) 8'' !EE !
+)) ** *
 11= I33* 655F R
 77à î
 11O X55T ]77J S
@@ -701,11 +746,10 @@
 CCQ ZEE0 9GGI R
 CCi pFF4 ;
 FF GGT ZKK1 7
-HH II (
-PP 2 )33 )>> )
+HH II 
 PP7 CRRL XTTM Y
-RR SS Ç
-ìC:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Services\Security\IUserService.cs
+RR SS ı
+ÜE:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Services\Security\IUserService.cs
 
 		 !
 
@@ -723,8 +767,8 @@
 
 " 5
 
-N SÑ	
-íC:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Services\Security\UserService.cs
+N Sô	
+ÖE:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Services\Security\UserService.cs
 
  `
 * 5  (** *33 )hh *
@@ -734,7 +778,9 @@
 * 5 
 ÑÑ *
 öö (2
- , AAF SDD %EE '
+ , AAF SDD %EE '
+
+ 
 5 @ *
 \ g *
 	x Ö! .
@@ -745,6 +791,7 @@
 ** ,, 
 33 ;;! &
 55 == FF 
+;; ==6 :
 AA HH; >
 CC JJL QPP "
 JJ  NN %
@@ -786,9 +833,11 @@
 ∑∑: >
 
 ∑∑ 
-ππ ÿ
-|C:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Startup.cs
- 00* 1
+ππ ◊
+oE:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Startup.cs
+ 00* 1
+
+ 
 & 3   )<
 ## +   44% 2HH$ 1II" /KKW d
 

@@ -1,43 +1,43 @@
-ô
-èC:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Controllers\AuthController.csutf-8°
-óC:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Controllers\LaboratoriesController.csutf-8ù
-ìC:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Controllers\ProductsController.csutf-8ï
-ãC:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Data\AutomapperProfile.csutf-8ù
-ìC:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Data\Entities\LaboratoryEntity.csutf-8ö
-êC:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Data\Entities\ProductEntity.csutf-8ï
-ãC:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Data\FarmaciaDBContext.csutf-8§
-öC:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Data\Repository\ILaboratoryRepository.csutf-8£
-ôC:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Data\Repository\LaboratoryRepository.csutf-8™
-†C:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Exceptions\InvalidElementOperationException.csutf-8¢
-òC:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Exceptions\NotFoundElementException.csutf-8©
-üC:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Migrations\20211226011637_InitialMigration.csutf-8¥
-®C:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Migrations\20211226011637_InitialMigration.Designer.csutf-8°
-óC:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Migrations\20211226224225_Security.csutf-8¨
-†C:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Migrations\20211226224225_Security.Designer.csutf-8§
-öC:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Migrations\20211230200135_AddedImages.csutf-8Ø
-£C:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Migrations\20211230200135_AddedImages.Designer.csutf-8¨
-¢C:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Migrations\20220102122104_AddedImagesProducts.csutf-8∑
-´C:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Migrations\20220102122104_AddedImagesProducts.Designer.csutf-8™
-ûC:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Migrations\FarmaciaDBContextModelSnapshot.csutf-8ô
-èC:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Models\LaboratoryFormModel.csutf-8ï
-ãC:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Models\LaboratoryModel.csutf-8ñ
-åC:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Models\ProductFormModel.csutf-8í
-àC:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Models\ProductModel.csutf-8ì
-âC:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Models\ResponseModel.csutf-8¢
-òC:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Models\Security\CreateRoleViewModel.csutf-8¶
-úC:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Models\Security\CreateUserRoleViewModel.csutf-8ù
-ìC:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Models\Security\LoginViewModel.csutf-8†
-ñC:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Models\Security\RegisterViewModel.csutf-8¢
-òC:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Models\Security\UserManagerResponse.csutf-8Ö
-|C:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Program.csutf-8ì
-âC:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Services\FileService.csutf-8î
-äC:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Services\IFileService.csutf-8ö
-êC:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Services\ILaboratoryService.csutf-8ó
-çC:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Services\IProductService.csutf-8ô
-èC:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Services\LaboratoryService.csutf-8ñ
-åC:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Services\ProductService.csutf-8ù
-ìC:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Services\Security\IUserService.csutf-8ú
-íC:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Services\Security\UserService.csutf-8Ö
-|C:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\Startup.csutf-8ƒ
-∏C:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\obj\Debug\netcoreapp3.1\.NETCoreApp,Version=v3.1.AssemblyAttributes.csutf-8±
-•C:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\obj\Debug\netcoreapp3.1\FarmaciaAPI.AssemblyInfo.csutf-8
+å
+ÇE:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Controllers\AuthController.csutf-8î
+äE:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Controllers\LaboratoriesController.csutf-8ê
+ÜE:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Controllers\ProductsController.csutf-8á
+~E:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Data\AutomapperProfile.csutf-8ê
+ÜE:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Data\Entities\LaboratoryEntity.csutf-8ç
+ÉE:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Data\Entities\ProductEntity.csutf-8á
+~E:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Data\FarmaciaDBContext.csutf-8ó
+çE:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Data\Repository\ILaboratoryRepository.csutf-8ñ
+åE:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Data\Repository\LaboratoryRepository.csutf-8ù
+ìE:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Exceptions\InvalidElementOperationException.csutf-8ï
+ãE:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Exceptions\NotFoundElementException.csutf-8ú
+íE:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Migrations\20211226011637_InitialMigration.csutf-8ß
+õE:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Migrations\20211226011637_InitialMigration.Designer.csutf-8î
+äE:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Migrations\20211226224225_Security.csutf-8ü
+ìE:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Migrations\20211226224225_Security.Designer.csutf-8ó
+çE:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Migrations\20211230200135_AddedImages.csutf-8¢
+ñE:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Migrations\20211230200135_AddedImages.Designer.csutf-8ü
+ïE:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Migrations\20220102122104_AddedImagesProducts.csutf-8™
+ûE:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Migrations\20220102122104_AddedImagesProducts.Designer.csutf-8ù
+ëE:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Migrations\FarmaciaDBContextModelSnapshot.csutf-8å
+ÇE:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Models\LaboratoryFormModel.csutf-8á
+~E:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Models\LaboratoryModel.csutf-8à
+E:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Models\ProductFormModel.csutf-8Ñ
+{E:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Models\ProductModel.csutf-8Ö
+|E:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Models\ResponseModel.csutf-8ï
+ãE:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Models\Security\CreateRoleViewModel.csutf-8ô
+èE:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Models\Security\CreateUserRoleViewModel.csutf-8ê
+ÜE:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Models\Security\LoginViewModel.csutf-8ì
+âE:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Models\Security\RegisterViewModel.csutf-8ï
+ãE:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Models\Security\UserManagerResponse.csutf-8x
+oE:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Program.csutf-8Ö
+|E:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Services\FileService.csutf-8Ü
+}E:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Services\IFileService.csutf-8ç
+ÉE:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Services\ILaboratoryService.csutf-8ä
+ÄE:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Services\IProductService.csutf-8å
+ÇE:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Services\LaboratoryService.csutf-8à
+E:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Services\ProductService.csutf-8ê
+ÜE:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Services\Security\IUserService.csutf-8è
+ÖE:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Services\Security\UserService.csutf-8x
+oE:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\Startup.csutf-8∑
+´E:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\obj\Debug\netcoreapp3.1\.NETCoreApp,Version=v3.1.AssemblyAttributes.csutf-8§
+òE:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\obj\Debug\netcoreapp3.1\FarmaciaAPI.AssemblyInfo.csutf-8
