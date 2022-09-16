@@ -20,7 +20,7 @@ namespace FarmaciaAPI.Services
             _mapper = mapper;
         }
 
-        private HashSet<string> _allowedSortValues = new HashSet<string> { "id", "name", "address","phone","email","makeOrders" };
+        private readonly HashSet<string> _allowedSortValues = new HashSet<string> { "id", "name", "address","phone","email","makeOrders" };
 
         public async  Task<LaboratoryModel> CreateLaboratoryAsync(LaboratoryModel laboratory)
         {
