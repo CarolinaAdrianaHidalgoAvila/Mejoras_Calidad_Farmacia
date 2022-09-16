@@ -18,7 +18,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///E:/CAROLINA/8_SEMESTRE/GESTION%20DE%20CALIDAD%20DE%20SISTEMAS/PRACTICA1/Mejoras_Calidad_Farmacia/FarmaciaAPI/Exceptions/InvalidElementOperationException.cs",
+                "uri": "file:///C:/Archivos%20Carito/Gestion%20de%20calidad/Farmacia%20projecto%20-%20practicarSonarQube/Mejoras_Calidad_Farmacia/FarmaciaAPI/Exceptions/InvalidElementOperationException.cs",
                 "region": {
                   "startLine": 8,
                   "startColumn": 18,
@@ -31,7 +31,7 @@
           "relatedLocations": [
             {
               "physicalLocation": {
-                "uri": "file:///E:/CAROLINA/8_SEMESTRE/GESTION%20DE%20CALIDAD%20DE%20SISTEMAS/PRACTICA1/Mejoras_Calidad_Farmacia/FarmaciaAPI/Exceptions/InvalidElementOperationException.cs",
+                "uri": "file:///C:/Archivos%20Carito/Gestion%20de%20calidad/Farmacia%20projecto%20-%20practicarSonarQube/Mejoras_Calidad_Farmacia/FarmaciaAPI/Exceptions/InvalidElementOperationException.cs",
                 "region": {
                   "startLine": 8,
                   "startColumn": 12,
@@ -42,7 +42,7 @@
             },
             {
               "physicalLocation": {
-                "uri": "file:///E:/CAROLINA/8_SEMESTRE/GESTION%20DE%20CALIDAD%20DE%20SISTEMAS/PRACTICA1/Mejoras_Calidad_Farmacia/FarmaciaAPI/Exceptions/InvalidElementOperationException.cs",
+                "uri": "file:///C:/Archivos%20Carito/Gestion%20de%20calidad/Farmacia%20projecto%20-%20practicarSonarQube/Mejoras_Calidad_Farmacia/FarmaciaAPI/Exceptions/InvalidElementOperationException.cs",
                 "region": {
                   "startLine": 8,
                   "startColumn": 12,
@@ -67,7 +67,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///E:/CAROLINA/8_SEMESTRE/GESTION%20DE%20CALIDAD%20DE%20SISTEMAS/PRACTICA1/Mejoras_Calidad_Farmacia/FarmaciaAPI/Exceptions/NotFoundElementException.cs",
+                "uri": "file:///C:/Archivos%20Carito/Gestion%20de%20calidad/Farmacia%20projecto%20-%20practicarSonarQube/Mejoras_Calidad_Farmacia/FarmaciaAPI/Exceptions/NotFoundElementException.cs",
                 "region": {
                   "startLine": 8,
                   "startColumn": 18,
@@ -80,7 +80,7 @@
           "relatedLocations": [
             {
               "physicalLocation": {
-                "uri": "file:///E:/CAROLINA/8_SEMESTRE/GESTION%20DE%20CALIDAD%20DE%20SISTEMAS/PRACTICA1/Mejoras_Calidad_Farmacia/FarmaciaAPI/Exceptions/NotFoundElementException.cs",
+                "uri": "file:///C:/Archivos%20Carito/Gestion%20de%20calidad/Farmacia%20projecto%20-%20practicarSonarQube/Mejoras_Calidad_Farmacia/FarmaciaAPI/Exceptions/NotFoundElementException.cs",
                 "region": {
                   "startLine": 8,
                   "startColumn": 12,
@@ -91,7 +91,7 @@
             },
             {
               "physicalLocation": {
-                "uri": "file:///E:/CAROLINA/8_SEMESTRE/GESTION%20DE%20CALIDAD%20DE%20SISTEMAS/PRACTICA1/Mejoras_Calidad_Farmacia/FarmaciaAPI/Exceptions/NotFoundElementException.cs",
+                "uri": "file:///C:/Archivos%20Carito/Gestion%20de%20calidad/Farmacia%20projecto%20-%20practicarSonarQube/Mejoras_Calidad_Farmacia/FarmaciaAPI/Exceptions/NotFoundElementException.cs",
                 "region": {
                   "startLine": 8,
                   "startColumn": 12,
@@ -116,7 +116,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///E:/CAROLINA/8_SEMESTRE/GESTION%20DE%20CALIDAD%20DE%20SISTEMAS/PRACTICA1/Mejoras_Calidad_Farmacia/FarmaciaAPI/Controllers/AuthController.cs",
+                "uri": "file:///C:/Archivos%20Carito/Gestion%20de%20calidad/Farmacia%20projecto%20-%20practicarSonarQube/Mejoras_Calidad_Farmacia/FarmaciaAPI/Controllers/AuthController.cs",
                 "region": {
                   "startLine": 18,
                   "startColumn": 30,
@@ -133,53 +133,11 @@
         {
           "ruleId": "S2933",
           "level": "warning",
-          "message": "Make '_productService' 'readonly'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///E:/CAROLINA/8_SEMESTRE/GESTION%20DE%20CALIDAD%20DE%20SISTEMAS/PRACTICA1/Mejoras_Calidad_Farmacia/FarmaciaAPI/Controllers/ProductsController.cs",
-                "region": {
-                  "startLine": 16,
-                  "startColumn": 33,
-                  "endLine": 16,
-                  "endColumn": 48
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2933",
-          "level": "warning",
-          "message": "Make '_fileService' 'readonly'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///E:/CAROLINA/8_SEMESTRE/GESTION%20DE%20CALIDAD%20DE%20SISTEMAS/PRACTICA1/Mejoras_Calidad_Farmacia/FarmaciaAPI/Controllers/ProductsController.cs",
-                "region": {
-                  "startLine": 17,
-                  "startColumn": 30,
-                  "endLine": 17,
-                  "endColumn": 42
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2933",
-          "level": "warning",
           "message": "Make '_laboratoryService' 'readonly'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///E:/CAROLINA/8_SEMESTRE/GESTION%20DE%20CALIDAD%20DE%20SISTEMAS/PRACTICA1/Mejoras_Calidad_Farmacia/FarmaciaAPI/Controllers/LaboratoriesController.cs",
+                "uri": "file:///C:/Archivos%20Carito/Gestion%20de%20calidad/Farmacia%20projecto%20-%20practicarSonarQube/Mejoras_Calidad_Farmacia/FarmaciaAPI/Controllers/LaboratoriesController.cs",
                 "region": {
                   "startLine": 20,
                   "startColumn": 36,
@@ -200,7 +158,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///E:/CAROLINA/8_SEMESTRE/GESTION%20DE%20CALIDAD%20DE%20SISTEMAS/PRACTICA1/Mejoras_Calidad_Farmacia/FarmaciaAPI/Controllers/LaboratoriesController.cs",
+                "uri": "file:///C:/Archivos%20Carito/Gestion%20de%20calidad/Farmacia%20projecto%20-%20practicarSonarQube/Mejoras_Calidad_Farmacia/FarmaciaAPI/Controllers/LaboratoriesController.cs",
                 "region": {
                   "startLine": 21,
                   "startColumn": 30,
@@ -221,7 +179,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///E:/CAROLINA/8_SEMESTRE/GESTION%20DE%20CALIDAD%20DE%20SISTEMAS/PRACTICA1/Mejoras_Calidad_Farmacia/FarmaciaAPI/Services/LaboratoryService.cs",
+                "uri": "file:///C:/Archivos%20Carito/Gestion%20de%20calidad/Farmacia%20projecto%20-%20practicarSonarQube/Mejoras_Calidad_Farmacia/FarmaciaAPI/Services/LaboratoryService.cs",
                 "region": {
                   "startLine": 15,
                   "startColumn": 39,
@@ -242,7 +200,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///E:/CAROLINA/8_SEMESTRE/GESTION%20DE%20CALIDAD%20DE%20SISTEMAS/PRACTICA1/Mejoras_Calidad_Farmacia/FarmaciaAPI/Services/LaboratoryService.cs",
+                "uri": "file:///C:/Archivos%20Carito/Gestion%20de%20calidad/Farmacia%20projecto%20-%20practicarSonarQube/Mejoras_Calidad_Farmacia/FarmaciaAPI/Services/LaboratoryService.cs",
                 "region": {
                   "startLine": 16,
                   "startColumn": 25,
@@ -263,7 +221,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///E:/CAROLINA/8_SEMESTRE/GESTION%20DE%20CALIDAD%20DE%20SISTEMAS/PRACTICA1/Mejoras_Calidad_Farmacia/FarmaciaAPI/Services/LaboratoryService.cs",
+                "uri": "file:///C:/Archivos%20Carito/Gestion%20de%20calidad/Farmacia%20projecto%20-%20practicarSonarQube/Mejoras_Calidad_Farmacia/FarmaciaAPI/Services/LaboratoryService.cs",
                 "region": {
                   "startLine": 23,
                   "startColumn": 33,
@@ -284,7 +242,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///E:/CAROLINA/8_SEMESTRE/GESTION%20DE%20CALIDAD%20DE%20SISTEMAS/PRACTICA1/Mejoras_Calidad_Farmacia/FarmaciaAPI/Services/ProductService.cs",
+                "uri": "file:///C:/Archivos%20Carito/Gestion%20de%20calidad/Farmacia%20projecto%20-%20practicarSonarQube/Mejoras_Calidad_Farmacia/FarmaciaAPI/Services/ProductService.cs",
                 "region": {
                   "startLine": 15,
                   "startColumn": 39,
@@ -305,7 +263,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///E:/CAROLINA/8_SEMESTRE/GESTION%20DE%20CALIDAD%20DE%20SISTEMAS/PRACTICA1/Mejoras_Calidad_Farmacia/FarmaciaAPI/Services/ProductService.cs",
+                "uri": "file:///C:/Archivos%20Carito/Gestion%20de%20calidad/Farmacia%20projecto%20-%20practicarSonarQube/Mejoras_Calidad_Farmacia/FarmaciaAPI/Services/ProductService.cs",
                 "region": {
                   "startLine": 16,
                   "startColumn": 25,
@@ -322,16 +280,37 @@
         {
           "ruleId": "S2933",
           "level": "warning",
-          "message": "Make '_dbContext' 'readonly'.",
+          "message": "Make '_productService' 'readonly'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///E:/CAROLINA/8_SEMESTRE/GESTION%20DE%20CALIDAD%20DE%20SISTEMAS/PRACTICA1/Mejoras_Calidad_Farmacia/FarmaciaAPI/Data/Repository/LaboratoryRepository.cs",
+                "uri": "file:///C:/Archivos%20Carito/Gestion%20de%20calidad/Farmacia%20projecto%20-%20practicarSonarQube/Mejoras_Calidad_Farmacia/FarmaciaAPI/Controllers/ProductsController.cs",
                 "region": {
-                  "startLine": 12,
-                  "startColumn": 35,
-                  "endLine": 12,
-                  "endColumn": 45
+                  "startLine": 16,
+                  "startColumn": 33,
+                  "endLine": 16,
+                  "endColumn": 48
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2933",
+          "level": "warning",
+          "message": "Make '_fileService' 'readonly'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Archivos%20Carito/Gestion%20de%20calidad/Farmacia%20projecto%20-%20practicarSonarQube/Mejoras_Calidad_Farmacia/FarmaciaAPI/Controllers/ProductsController.cs",
+                "region": {
+                  "startLine": 17,
+                  "startColumn": 30,
+                  "endLine": 17,
+                  "endColumn": 42
                 }
               }
             }
@@ -347,7 +326,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///E:/CAROLINA/8_SEMESTRE/GESTION%20DE%20CALIDAD%20DE%20SISTEMAS/PRACTICA1/Mejoras_Calidad_Farmacia/FarmaciaAPI/Services/Security/UserService.cs",
+                "uri": "file:///C:/Archivos%20Carito/Gestion%20de%20calidad/Farmacia%20projecto%20-%20practicarSonarQube/Mejoras_Calidad_Farmacia/FarmaciaAPI/Services/Security/UserService.cs",
                 "region": {
                   "startLine": 17,
                   "startColumn": 43,
@@ -368,7 +347,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///E:/CAROLINA/8_SEMESTRE/GESTION%20DE%20CALIDAD%20DE%20SISTEMAS/PRACTICA1/Mejoras_Calidad_Farmacia/FarmaciaAPI/Services/Security/UserService.cs",
+                "uri": "file:///C:/Archivos%20Carito/Gestion%20de%20calidad/Farmacia%20projecto%20-%20practicarSonarQube/Mejoras_Calidad_Farmacia/FarmaciaAPI/Services/Security/UserService.cs",
                 "region": {
                   "startLine": 18,
                   "startColumn": 43,
@@ -389,11 +368,32 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///E:/CAROLINA/8_SEMESTRE/GESTION%20DE%20CALIDAD%20DE%20SISTEMAS/PRACTICA1/Mejoras_Calidad_Farmacia/FarmaciaAPI/Services/Security/UserService.cs",
+                "uri": "file:///C:/Archivos%20Carito/Gestion%20de%20calidad/Farmacia%20projecto%20-%20practicarSonarQube/Mejoras_Calidad_Farmacia/FarmaciaAPI/Services/Security/UserService.cs",
                 "region": {
                   "startLine": 19,
                   "startColumn": 32,
                   "endLine": 19,
+                  "endColumn": 45
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2933",
+          "level": "warning",
+          "message": "Make '_dbContext' 'readonly'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Archivos%20Carito/Gestion%20de%20calidad/Farmacia%20projecto%20-%20practicarSonarQube/Mejoras_Calidad_Farmacia/FarmaciaAPI/Data/Repository/LaboratoryRepository.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 35,
+                  "endLine": 12,
                   "endColumn": 45
                 }
               }
@@ -410,12 +410,12 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///E:/CAROLINA/8_SEMESTRE/GESTION%20DE%20CALIDAD%20DE%20SISTEMAS/PRACTICA1/Mejoras_Calidad_Farmacia/FarmaciaAPI/Startup.cs",
+                "uri": "file:///C:/Archivos%20Carito/Gestion%20de%20calidad/Farmacia%20projecto%20-%20practicarSonarQube/Mejoras_Calidad_Farmacia/FarmaciaAPI/Startup.cs",
                 "region": {
-                  "startLine": 91,
-                  "startColumn": 42,
-                  "endLine": 91,
-                  "endColumn": 66
+                  "startLine": 81,
+                  "startColumn": 57,
+                  "endLine": 81,
+                  "endColumn": 81
                 }
               }
             }
@@ -431,12 +431,46 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///E:/CAROLINA/8_SEMESTRE/GESTION%20DE%20CALIDAD%20DE%20SISTEMAS/PRACTICA1/Mejoras_Calidad_Farmacia/FarmaciaAPI/Startup.cs",
+                "uri": "file:///C:/Archivos%20Carito/Gestion%20de%20calidad/Farmacia%20projecto%20-%20practicarSonarQube/Mejoras_Calidad_Farmacia/FarmaciaAPI/Startup.cs",
                 "region": {
-                  "startLine": 81,
-                  "startColumn": 57,
-                  "endLine": 81,
-                  "endColumn": 81
+                  "startLine": 91,
+                  "startColumn": 42,
+                  "endLine": 91,
+                  "endColumn": 66
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1066",
+          "level": "warning",
+          "message": "Merge this if statement with the enclosing one.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Archivos%20Carito/Gestion%20de%20calidad/Farmacia%20projecto%20-%20practicarSonarQube/Mejoras_Calidad_Farmacia/FarmaciaAPI/Controllers/LaboratoriesController.cs",
+                "region": {
+                  "startLine": 120,
+                  "startColumn": 21,
+                  "endLine": 120,
+                  "endColumn": 23
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Archivos%20Carito/Gestion%20de%20calidad/Farmacia%20projecto%20-%20practicarSonarQube/Mejoras_Calidad_Farmacia/FarmaciaAPI/Controllers/LaboratoriesController.cs",
+                "region": {
+                  "startLine": 118,
+                  "startColumn": 17,
+                  "endLine": 118,
+                  "endColumn": 19
                 }
               }
             }
@@ -452,7 +486,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///E:/CAROLINA/8_SEMESTRE/GESTION%20DE%20CALIDAD%20DE%20SISTEMAS/PRACTICA1/Mejoras_Calidad_Farmacia/FarmaciaAPI/Services/Security/UserService.cs",
+                "uri": "file:///C:/Archivos%20Carito/Gestion%20de%20calidad/Farmacia%20projecto%20-%20practicarSonarQube/Mejoras_Calidad_Farmacia/FarmaciaAPI/Services/Security/UserService.cs",
                 "region": {
                   "startLine": 88,
                   "startColumn": 23,
@@ -473,7 +507,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///E:/CAROLINA/8_SEMESTRE/GESTION%20DE%20CALIDAD%20DE%20SISTEMAS/PRACTICA1/Mejoras_Calidad_Farmacia/FarmaciaAPI/Services/Security/UserService.cs",
+                "uri": "file:///C:/Archivos%20Carito/Gestion%20de%20calidad/Farmacia%20projecto%20-%20practicarSonarQube/Mejoras_Calidad_Farmacia/FarmaciaAPI/Services/Security/UserService.cs",
                 "region": {
                   "startLine": 165,
                   "startColumn": 17,
@@ -486,46 +520,12 @@
           "relatedLocations": [
             {
               "physicalLocation": {
-                "uri": "file:///E:/CAROLINA/8_SEMESTRE/GESTION%20DE%20CALIDAD%20DE%20SISTEMAS/PRACTICA1/Mejoras_Calidad_Farmacia/FarmaciaAPI/Services/Security/UserService.cs",
+                "uri": "file:///C:/Archivos%20Carito/Gestion%20de%20calidad/Farmacia%20projecto%20-%20practicarSonarQube/Mejoras_Calidad_Farmacia/FarmaciaAPI/Services/Security/UserService.cs",
                 "region": {
                   "startLine": 166,
                   "startColumn": 13,
                   "endLine": 172,
                   "endColumn": 14
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1066",
-          "level": "warning",
-          "message": "Merge this if statement with the enclosing one.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///E:/CAROLINA/8_SEMESTRE/GESTION%20DE%20CALIDAD%20DE%20SISTEMAS/PRACTICA1/Mejoras_Calidad_Farmacia/FarmaciaAPI/Controllers/LaboratoriesController.cs",
-                "region": {
-                  "startLine": 120,
-                  "startColumn": 21,
-                  "endLine": 120,
-                  "endColumn": 23
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///E:/CAROLINA/8_SEMESTRE/GESTION%20DE%20CALIDAD%20DE%20SISTEMAS/PRACTICA1/Mejoras_Calidad_Farmacia/FarmaciaAPI/Controllers/LaboratoriesController.cs",
-                "region": {
-                  "startLine": 118,
-                  "startColumn": 17,
-                  "endLine": 118,
-                  "endColumn": 19
                 }
               }
             }
@@ -541,7 +541,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///E:/CAROLINA/8_SEMESTRE/GESTION%20DE%20CALIDAD%20DE%20SISTEMAS/PRACTICA1/Mejoras_Calidad_Farmacia/FarmaciaAPI/Services/ProductService.cs",
+                "uri": "file:///C:/Archivos%20Carito/Gestion%20de%20calidad/Farmacia%20projecto%20-%20practicarSonarQube/Mejoras_Calidad_Farmacia/FarmaciaAPI/Services/ProductService.cs",
                 "region": {
                   "startLine": 44,
                   "startColumn": 23,
@@ -562,33 +562,12 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///E:/CAROLINA/8_SEMESTRE/GESTION%20DE%20CALIDAD%20DE%20SISTEMAS/PRACTICA1/Mejoras_Calidad_Farmacia/FarmaciaAPI/Services/ProductService.cs",
+                "uri": "file:///C:/Archivos%20Carito/Gestion%20de%20calidad/Farmacia%20projecto%20-%20practicarSonarQube/Mejoras_Calidad_Farmacia/FarmaciaAPI/Services/ProductService.cs",
                 "region": {
                   "startLine": 34,
                   "startColumn": 19,
                   "endLine": 34,
                   "endColumn": 51
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1186",
-          "level": "warning",
-          "message": "Add a nested comment explaining why this method is empty, throw a 'NotSupportedException' or complete the implementation.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///E:/CAROLINA/8_SEMESTRE/GESTION%20DE%20CALIDAD%20DE%20SISTEMAS/PRACTICA1/Mejoras_Calidad_Farmacia/FarmaciaAPI/Migrations/20211230200135_AddedImages.cs",
-                "region": {
-                  "startLine": 12,
-                  "startColumn": 33,
-                  "endLine": 12,
-                  "endColumn": 37
                 }
               }
             }
@@ -604,7 +583,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///E:/CAROLINA/8_SEMESTRE/GESTION%20DE%20CALIDAD%20DE%20SISTEMAS/PRACTICA1/Mejoras_Calidad_Farmacia/FarmaciaAPI/Services/ProductService.cs",
+                "uri": "file:///C:/Archivos%20Carito/Gestion%20de%20calidad/Farmacia%20projecto%20-%20practicarSonarQube/Mejoras_Calidad_Farmacia/FarmaciaAPI/Services/ProductService.cs",
                 "region": {
                   "startLine": 78,
                   "startColumn": 19,
@@ -625,28 +604,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///E:/CAROLINA/8_SEMESTRE/GESTION%20DE%20CALIDAD%20DE%20SISTEMAS/PRACTICA1/Mejoras_Calidad_Farmacia/FarmaciaAPI/Services/LaboratoryService.cs",
-                "region": {
-                  "startLine": 35,
-                  "startColumn": 19,
-                  "endLine": 35,
-                  "endColumn": 51
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S112",
-          "level": "warning",
-          "message": "'System.Exception' should not be thrown by user code.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///E:/CAROLINA/8_SEMESTRE/GESTION%20DE%20CALIDAD%20DE%20SISTEMAS/PRACTICA1/Mejoras_Calidad_Farmacia/FarmaciaAPI/Services/LaboratoryService.cs",
+                "uri": "file:///C:/Archivos%20Carito/Gestion%20de%20calidad/Farmacia%20projecto%20-%20practicarSonarQube/Mejoras_Calidad_Farmacia/FarmaciaAPI/Services/LaboratoryService.cs",
                 "region": {
                   "startLine": 45,
                   "startColumn": 23,
@@ -667,7 +625,28 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///E:/CAROLINA/8_SEMESTRE/GESTION%20DE%20CALIDAD%20DE%20SISTEMAS/PRACTICA1/Mejoras_Calidad_Farmacia/FarmaciaAPI/Services/LaboratoryService.cs",
+                "uri": "file:///C:/Archivos%20Carito/Gestion%20de%20calidad/Farmacia%20projecto%20-%20practicarSonarQube/Mejoras_Calidad_Farmacia/FarmaciaAPI/Services/LaboratoryService.cs",
+                "region": {
+                  "startLine": 35,
+                  "startColumn": 19,
+                  "endLine": 35,
+                  "endColumn": 51
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S112",
+          "level": "warning",
+          "message": "'System.Exception' should not be thrown by user code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Archivos%20Carito/Gestion%20de%20calidad/Farmacia%20projecto%20-%20practicarSonarQube/Mejoras_Calidad_Farmacia/FarmaciaAPI/Services/LaboratoryService.cs",
                 "region": {
                   "startLine": 79,
                   "startColumn": 19,
@@ -688,7 +667,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///E:/CAROLINA/8_SEMESTRE/GESTION%20DE%20CALIDAD%20DE%20SISTEMAS/PRACTICA1/Mejoras_Calidad_Farmacia/FarmaciaAPI/Data/Repository/LaboratoryRepository.cs",
+                "uri": "file:///C:/Archivos%20Carito/Gestion%20de%20calidad/Farmacia%20projecto%20-%20practicarSonarQube/Mejoras_Calidad_Farmacia/FarmaciaAPI/Data/Repository/LaboratoryRepository.cs",
                 "region": {
                   "startLine": 102,
                   "startColumn": 37,
@@ -709,12 +688,33 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///E:/CAROLINA/8_SEMESTRE/GESTION%20DE%20CALIDAD%20DE%20SISTEMAS/PRACTICA1/Mejoras_Calidad_Farmacia/FarmaciaAPI/Data/Repository/LaboratoryRepository.cs",
+                "uri": "file:///C:/Archivos%20Carito/Gestion%20de%20calidad/Farmacia%20projecto%20-%20practicarSonarQube/Mejoras_Calidad_Farmacia/FarmaciaAPI/Data/Repository/LaboratoryRepository.cs",
                 "region": {
                   "startLine": 107,
                   "startColumn": 17,
                   "endLine": 107,
                   "endColumn": 26
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1186",
+          "level": "warning",
+          "message": "Add a nested comment explaining why this method is empty, throw a 'NotSupportedException' or complete the implementation.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Archivos%20Carito/Gestion%20de%20calidad/Farmacia%20projecto%20-%20practicarSonarQube/Mejoras_Calidad_Farmacia/FarmaciaAPI/Migrations/20211230200135_AddedImages.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 33,
+                  "endLine": 12,
+                  "endColumn": 37
                 }
               }
             }
@@ -730,7 +730,7 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///E:/CAROLINA/8_SEMESTRE/GESTION%20DE%20CALIDAD%20DE%20SISTEMAS/PRACTICA1/Mejoras_Calidad_Farmacia/FarmaciaAPI/Data/FarmaciaDBContext.cs",
+                "uri": "file:///C:/Archivos%20Carito/Gestion%20de%20calidad/Farmacia%20projecto%20-%20practicarSonarQube/Mejoras_Calidad_Farmacia/FarmaciaAPI/Data/FarmaciaDBContext.cs",
                 "region": {
                   "startLine": 22,
                   "startColumn": 62,
@@ -757,9 +757,9 @@
             "isEnabledByDefault": true,
             "tags": [
               "C#",
-              "SonarWay",
               "MainSourceScope",
-              "TestSourceScope"
+              "TestSourceScope",
+              "SonarWay"
             ]
           }
         },
@@ -774,8 +774,8 @@
             "isEnabledByDefault": true,
             "tags": [
               "C#",
-              "SonarWay",
-              "MainSourceScope"
+              "MainSourceScope",
+              "SonarWay"
             ]
           }
         },
@@ -790,9 +790,9 @@
             "isEnabledByDefault": true,
             "tags": [
               "C#",
-              "SonarWay",
               "MainSourceScope",
-              "TestSourceScope"
+              "TestSourceScope",
+              "SonarWay"
             ]
           }
         },
@@ -807,9 +807,9 @@
             "isEnabledByDefault": true,
             "tags": [
               "C#",
-              "SonarWay",
               "MainSourceScope",
-              "TestSourceScope"
+              "TestSourceScope",
+              "SonarWay"
             ]
           }
         },
@@ -824,9 +824,9 @@
             "isEnabledByDefault": true,
             "tags": [
               "C#",
-              "SonarWay",
               "MainSourceScope",
-              "TestSourceScope"
+              "TestSourceScope",
+              "SonarWay"
             ]
           }
         },
@@ -841,9 +841,9 @@
             "isEnabledByDefault": true,
             "tags": [
               "C#",
-              "SonarWay",
               "MainSourceScope",
-              "TestSourceScope"
+              "TestSourceScope",
+              "SonarWay"
             ]
           }
         },
@@ -858,8 +858,8 @@
             "isEnabledByDefault": true,
             "tags": [
               "C#",
-              "SonarWay",
-              "MainSourceScope"
+              "MainSourceScope",
+              "SonarWay"
             ]
           }
         },
@@ -874,8 +874,8 @@
             "isEnabledByDefault": true,
             "tags": [
               "C#",
-              "SonarWay",
-              "MainSourceScope"
+              "MainSourceScope",
+              "SonarWay"
             ]
           }
         },
@@ -890,9 +890,8 @@
             "isEnabledByDefault": true,
             "tags": [
               "C#",
-              "SonarWay",
               "MainSourceScope",
-              "NotConfigurable"
+              "SonarWay"
             ]
           }
         },
@@ -907,9 +906,9 @@
             "isEnabledByDefault": true,
             "tags": [
               "C#",
-              "SonarWay",
               "MainSourceScope",
-              "TestSourceScope"
+              "TestSourceScope",
+              "SonarWay"
             ]
           }
         }

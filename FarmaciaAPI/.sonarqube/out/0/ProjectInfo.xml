@@ -3,15 +3,15 @@
   <ProjectName>FarmaciaAPI</ProjectName>
   <ProjectLanguage>C#</ProjectLanguage>
   <ProjectType>Product</ProjectType>
-  <ProjectGuid>1262124b-9f12-4d9c-ac3f-890f47a729f6</ProjectGuid>
-  <FullPath>E:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\FarmaciaAPI.csproj</FullPath>
+  <ProjectGuid>ac00eff1-0916-45ca-8ad8-c09b494827ea</ProjectGuid>
+  <FullPath>C:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\FarmaciaAPI.csproj</FullPath>
   <IsExcluded>false</IsExcluded>
   <AnalysisResults>
-    <AnalysisResult Id="FilesToAnalyze" Location="E:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\.sonarqube\conf\0\FilesToAnalyze.txt" />
+    <AnalysisResult Id="FilesToAnalyze" Location="C:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\.sonarqube\conf\0\FilesToAnalyze.txt" />
   </AnalysisResults>
   <AnalysisSettings>
-    <Property Name="sonar.cs.roslyn.reportFilePaths">E:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\.sonarqube\out\0\Issues.json</Property>
-    <Property Name="sonar.cs.analyzer.projectOutPaths">E:\CAROLINA\8_SEMESTRE\GESTION DE CALIDAD DE SISTEMAS\PRACTICA1\Mejoras_Calidad_Farmacia\FarmaciaAPI\.sonarqube\out\0</Property>
+    <Property Name="sonar.cs.roslyn.reportFilePaths">C:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\.sonarqube\out\0\Issues.json</Property>
+    <Property Name="sonar.cs.analyzer.projectOutPaths">C:\Archivos Carito\Gestion de calidad\Farmacia projecto - practicarSonarQube\Mejoras_Calidad_Farmacia\FarmaciaAPI\.sonarqube\out\0</Property>
   </AnalysisSettings>
   <Configuration>Debug</Configuration>
   <Platform>AnyCPU</Platform>

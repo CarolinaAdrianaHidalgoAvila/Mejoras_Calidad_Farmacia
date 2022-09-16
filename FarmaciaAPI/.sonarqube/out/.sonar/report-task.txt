@@ -1,6 +1,6 @@
-projectKey=Practica1_Errores_Farmacia
+projectKey=Practica_1-Farmacia
 serverUrl=http://localhost:9000
-serverVersion=9.4.0.54424
-dashboardUrl=http://localhost:9000/dashboard?id=Practica1_Errores_Farmacia
-ceTaskId=AYNIPhQyjfHIHxeFng0n
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AYNIPhQyjfHIHxeFng0n
+serverVersion=9.6.1.59531
+dashboardUrl=http://localhost:9000/dashboard?id=Practica_1-Farmacia
+ceTaskId=AYNIVqRgHfWxBdA0_Evk
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYNIVqRgHfWxBdA0_Evk
