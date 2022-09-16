@@ -8,7 +8,7 @@ namespace FarmaciaAPI.Services
 {
     public interface ILaboratoryService
     {
-        Task<IEnumerable<LaboratoryModel>> GetLaboratoriesAsync(string orderBy);
+        Task<IEnumerable<LaboratoryModel>> GetLaboratoriesAsync(string orderBy = "id");
         Task<LaboratoryModel> GetLaboratoryAsync(int laboratoryId);
         Task<LaboratoryModel> CreateLaboratoryAsync(LaboratoryModel laboratory);
         Task<LaboratoryModel> UpdateLaboratoryAsync(int laboratoryId, LaboratoryModel laboratory);
