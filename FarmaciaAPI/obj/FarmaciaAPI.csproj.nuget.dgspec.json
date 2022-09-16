@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Archivos Carito\\Gestion de calidad\\Farmacia projecto - practicarSonarQube\\Mejoras_Calidad_Farmacia\\FarmaciaAPI\\FarmaciaAPI.csproj": {}
+    "E:\\CAROLINA\\8_SEMESTRE\\GESTION DE CALIDAD DE SISTEMAS\\PRACTICA1\\Mejoras_Calidad_Farmacia\\FarmaciaAPI\\FarmaciaAPI.csproj": {}
   },
   "projects": {
-    "C:\\Archivos Carito\\Gestion de calidad\\Farmacia projecto - practicarSonarQube\\Mejoras_Calidad_Farmacia\\FarmaciaAPI\\FarmaciaAPI.csproj": {
+    "E:\\CAROLINA\\8_SEMESTRE\\GESTION DE CALIDAD DE SISTEMAS\\PRACTICA1\\Mejoras_Calidad_Farmacia\\FarmaciaAPI\\FarmaciaAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Archivos Carito\\Gestion de calidad\\Farmacia projecto - practicarSonarQube\\Mejoras_Calidad_Farmacia\\FarmaciaAPI\\FarmaciaAPI.csproj",
+        "projectUniqueName": "E:\\CAROLINA\\8_SEMESTRE\\GESTION DE CALIDAD DE SISTEMAS\\PRACTICA1\\Mejoras_Calidad_Farmacia\\FarmaciaAPI\\FarmaciaAPI.csproj",
         "projectName": "FarmaciaAPI",
-        "projectPath": "C:\\Archivos Carito\\Gestion de calidad\\Farmacia projecto - practicarSonarQube\\Mejoras_Calidad_Farmacia\\FarmaciaAPI\\FarmaciaAPI.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Archivos Carito\\Gestion de calidad\\Farmacia projecto - practicarSonarQube\\Mejoras_Calidad_Farmacia\\FarmaciaAPI\\obj\\",
+        "projectPath": "E:\\CAROLINA\\8_SEMESTRE\\GESTION DE CALIDAD DE SISTEMAS\\PRACTICA1\\Mejoras_Calidad_Farmacia\\FarmaciaAPI\\FarmaciaAPI.csproj",
+        "packagesPath": "C:\\Users\\MiPC\\.nuget\\packages\\",
+        "outputPath": "E:\\CAROLINA\\8_SEMESTRE\\GESTION DE CALIDAD DE SISTEMAS\\PRACTICA1\\Mejoras_Calidad_Farmacia\\FarmaciaAPI\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\MiPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
